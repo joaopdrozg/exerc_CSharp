@@ -1,0 +1,14 @@
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\bin\Debug\net9.0\aula_1.exe
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\bin\Debug\net9.0\aula_1.deps.json
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\bin\Debug\net9.0\aula_1.runtimeconfig.json
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\bin\Debug\net9.0\aula_1.dll
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\bin\Debug\net9.0\aula_1.pdb
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\obj\Debug\net9.0\aula_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\obj\Debug\net9.0\aula_1.AssemblyInfoInputs.cache
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\obj\Debug\net9.0\aula_1.AssemblyInfo.cs
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\obj\Debug\net9.0\aula_1.csproj.CoreCompileInputs.cache
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\obj\Debug\net9.0\aula_1.dll
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\obj\Debug\net9.0\refint\aula_1.dll
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\obj\Debug\net9.0\aula_1.pdb
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\obj\Debug\net9.0\aula_1.genruntimeconfig.cache
+C:\Users\joao.girardello\Documents\C#_if_else\aula_1\obj\Debug\net9.0\ref\aula_1.dll

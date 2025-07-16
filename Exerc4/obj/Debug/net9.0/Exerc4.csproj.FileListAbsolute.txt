@@ -1,0 +1,14 @@
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\bin\Debug\net9.0\Exerc4.exe
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\bin\Debug\net9.0\Exerc4.deps.json
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\bin\Debug\net9.0\Exerc4.runtimeconfig.json
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\bin\Debug\net9.0\Exerc4.dll
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\bin\Debug\net9.0\Exerc4.pdb
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\obj\Debug\net9.0\Exerc4.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\obj\Debug\net9.0\Exerc4.AssemblyInfoInputs.cache
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\obj\Debug\net9.0\Exerc4.AssemblyInfo.cs
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\obj\Debug\net9.0\Exerc4.csproj.CoreCompileInputs.cache
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\obj\Debug\net9.0\Exerc4.dll
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\obj\Debug\net9.0\refint\Exerc4.dll
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\obj\Debug\net9.0\Exerc4.pdb
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\obj\Debug\net9.0\Exerc4.genruntimeconfig.cache
+c:\Users\joao.girardello\Documents\C#_if_else\Exerc4\obj\Debug\net9.0\ref\Exerc4.dll
