@@ -1,0 +1,15 @@
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\bin\Debug\net9.0\aula_2_switch.exe
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\bin\Debug\net9.0\aula_2_switch.deps.json
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\bin\Debug\net9.0\aula_2_switch.runtimeconfig.json
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\bin\Debug\net9.0\aula_2_switch.dll
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\bin\Debug\net9.0\aula_2_switch.pdb
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\obj\Debug\net9.0\aula_2_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\obj\Debug\net9.0\aula_2_switch.AssemblyInfoInputs.cache
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\obj\Debug\net9.0\aula_2_switch.AssemblyInfo.cs
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\obj\Debug\net9.0\aula_2_switch.csproj.CoreCompileInputs.cache
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\obj\Debug\net9.0\aula_2_switch.sourcelink.json
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\obj\Debug\net9.0\aula_2_switch.dll
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\obj\Debug\net9.0\refint\aula_2_switch.dll
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\obj\Debug\net9.0\aula_2_switch.pdb
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\obj\Debug\net9.0\aula_2_switch.genruntimeconfig.cache
+C:\Users\joao.girardello\Documents\C#_if_else\aula_2_switch\obj\Debug\net9.0\ref\aula_2_switch.dll
